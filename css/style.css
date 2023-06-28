@@ -1,0 +1,26 @@
+.container {
+    display: block;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 50vh;
+    /* height: 100px; */
+    border: 2px solid black;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+}
+
+.red-box {
+    display: block;
+    width: 150px;
+    height: 200px;
+    background-color: red;
+}
+
+#usd {
+    margin-bottom: 40px;
+}
